@@ -1,0 +1,47 @@
+{
+  "heresies": [
+    {
+      "name": "Docetism",
+      "false_teaching": "Jesus only appeared to be human",
+      "catholic_truth": "Christ is fully God and fully man"
+    },
+    {
+      "name": "Arianism",
+      "false_teaching": "Jesus not fully God",
+      "catholic_truth": "Christ is fully God and fully man"
+    },
+    {
+      "name": "Nestorianism",
+      "false_teaching": "Jesus is two 'persons' - Jesus the human son of Mary and Jesus the divine Son of God",
+      "catholic_truth": "Christ is one person with two natures: divine nature and human nature"
+    },
+    {
+      "name": "Monophysitism",
+      "false_teaching": "Jesus is fully God but not fully man",
+      "catholic_truth": "Christ has two natures: divine nature and human nature"
+    },
+    {
+      "name": "Monothelitism",
+      "false_teaching": "Jesus has only one will",
+      "catholic_truth": "Christ has two wills: a divine will and a human will belonging to His human soul"
+    },
+    {
+      "name": "Iconoclasm",
+      "false_teaching": "Images are idolatrous",
+      "catholic_truth": "The Catholic Church defends the use of Christian (not pagan) images since Christ became visible through the incarnation"
+    },
+    {
+      "name": "Pelagianism",
+      "false_teaching": "Denies original sin and teaches that grace is not necessary for salvation",
+      "catholic_truth": "We are born in original sin and saved by grace through faith and works"
+    }
+  ],
+  "catholic_teachings_about_jesus": [
+    "Second Person of the Trinity",
+    "One divine person with two natures (divine & human)",
+    "100% divine (Son of God)",
+    "100% human (Son of Mary)",
+    "Christ or Messiah (Son of David)",
+    "Rose from the dead and is seated at Father's right hand"
+  ]
+} 
